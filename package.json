@@ -1,13 +1,13 @@
 {
-  "name": "@coreui/coreui-free-vue-admin-template",
+  "name": "@coreui/coreui-free-vue-admin-template-vuex",
   "version": "5.0.0",
-  "description": "CoreUI Free Vue Admin Template",
+  "description": "CoreUI Free Vue Admin Template (Vuex)",
   "bugs": {
-    "url": "https://github.com/coreui/coreui-free-vue-admin-template/issues"
+    "url": "https://github.com/coreui/coreui-free-vue-admin-template-vuex/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:coreui/coreui-free-vue-admin-template.git"
+    "url": "git@github.com:coreui/coreui-free-vue-admin-template-vuex.git"
   },
   "license": "MIT",
   "author": "The CoreUI Team (https://github.com/orgs/coreui/people)",

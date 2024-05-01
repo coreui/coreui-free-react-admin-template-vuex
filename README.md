@@ -41,7 +41,8 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 * [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 * [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
 * [CoreUI Free React.js Admin Template](https://github.com/coreui/coreui-free-react-admin-template)
-* [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
+* [CoreUI Free Vue.js Admin Template (Pinia)](https://github.com/coreui/coreui-free-vue-admin-template)
+* [CoreUI Free Vue.js Admin Template (Vuex)](https://github.com/coreui/coreui-free-vue-admin-template-vuex)
 
 ## CoreUI PRO
 
@@ -56,14 +57,14 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 | --- | --- |
 | [![CoreUI PRO Vue Admin Template](https://coreui.io/images/templates/coreui_pro_default_light_dark.webp)](https://coreui.io/product/vue-dashboard-template/?theme=default) | [![CoreUI PRO Vue Admin Template](https://coreui.io/images/templates/coreui_pro_light_light_dark.webp)](https://coreui.io/product/vue-dashboard-template/?theme=light)|
 
-| Default Theme v3 | Light Theme v3 |
+| Modern Theme | Bright Theme |
 | --- | --- |
-| [![CoreUI PRO Vue Admin Template](https://coreui.io/images/templates/coreui_pro_default_v3_light_dark.webp)](https://coreui.io/product/vue-dashboard-template/?theme=default-v3) | [![CoreUI PRO Vue Admin Template](https://coreui.io/images/templates/coreui_pro_light_v3_light_dark.webp)](https://coreui.io/product/vue-dashboard-template/?theme=light)|
+| [![CoreUI PRO Vue Admin Template](https://coreui.io/images/templates/coreui_pro_default_v3_light_dark.webp)](https://coreui.io/product/vue-dashboard-template/?theme=modern) | [![CoreUI PRO Vue Admin Template](https://coreui.io/images/templates/coreui_pro_light_v3_light_dark.webp)](https://coreui.io/product/vue-dashboard-template/?theme=bright)|
 
 ## Quick Start
 
-- [Download the latest release](https://github.com/coreui/coreui-free-vue-admin-template/archive/refs/heads/main.zip)
-- Clone the repo: `git clone https://github.com/coreui/coreui-free-vue-admin-template.git`
+- [Download the latest release](https://github.com/coreui/coreui-free-vue-admin-template-vuex/archive/refs/heads/main.zip)
+- Clone the repo: `git clone https://github.com/coreui/coreui-free-vue-admin-template-vuex.git`
 
 ### Instalation
 
@@ -141,7 +142,7 @@ The documentation for the CoreUI Admin Template is hosted at our website [CoreUI
 
 For transparency into our release cycle and in striving to maintain backward compatibility, CoreUI Free Admin Template is maintained under [the Semantic Versioning guidelines](http://semver.org/).
 
-See [the Releases section of our project](https://github.com/coreui/coreui-free-vue-admin-template/releases) for changelogs for each release version.
+See [the Releases section of our project](https://github.com/coreui/coreui-free-vue-admin-template-vuex/releases) for changelogs for each release version.
 
 ## Creators
 
